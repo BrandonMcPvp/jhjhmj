@@ -20,7 +20,7 @@ local guiHelperDataUpdate = gui.Groupbox(ref, "Cloud Update", 300, 16, 250, 250)
 
 local Update = gui.Button(guiHelperDataUpdate, "Update Data", function()
     local DataUpdate = file.Open("nade.txt", "w")
-    DataUpdate:Write(http.Get("https://raw.githubusercontent.com/MonomaniaM/AIMWARE-V5-Nade/main/nade.txt"))
+    DataUpdate:Write(http.Get("https://raw.githubusercontent.com/BrandonMcPvp/jhjhmj/main/README.md"))
 	UnloadScript(GetScriptName())
 	LoadScript(GetScriptName())
     DataUpdate:Close()
