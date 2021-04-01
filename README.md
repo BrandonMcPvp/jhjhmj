@@ -1,3 +1,5 @@
+This is english, please don't auto change.
+
 -1247.968750;-456.031250;-95.968750;4;Concrete Towards Top Mid (Oneway);56.706448;-55.576618;800;0;0;0;0;0;de_mirage
 -1120.031250;-1105.028564;-167.9687500;4;Jungle Towards A (Oneway);19.079725;-139.840942;800;0;0;0;0;0;de_mirage
 -1558.489990;-1328.411865;-261.033142;5;CT to Vents;22.331276 82.196236;800;0;0;0;0;0;de_mirage
